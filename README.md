@@ -1,16 +1,46 @@
-*COMPANY*: CODTECH IT SOLUTIONS
+# Predictive Analysis Using Machine Learning
 
-*NAME*: Harsha Vinay Garagaparthi
+A machine-learning project developed during the Codtech IT Solutions Data Analytics internship.
 
-*INTERN ID*: CT12WLQA
+## Overview
 
-*DOMAIN*: DATA ANALYTICS
+The project demonstrates a typical predictive-analytics workflow using a structured dataset. The goal is to prepare data, select useful features, train a machine-learning model, evaluate the results, and derive useful insights.
 
-*DURATION*: 8 WEEEKS
+## Workflow
 
-*MENTOR*: VAISHALI 
+```text
+Dataset
+   ↓
+Data Preprocessing
+   ↓
+Feature Selection
+   ↓
+Model Training
+   ↓
+Model Evaluation
+   ↓
+Predictions & Insights
+```
 
-##This project focuses on building a machine learning model (regression or classification) to predict outcomes based on a given dataset. The objective is to apply data preprocessing, feature selection, model training, and evaluation to derive actionable insights.
+## Key areas
 
-*OUTPUT - 1*: ![Image](https://github.com/user-attachments/assets/3ada40d7-87c4-4481-8f4d-3d4a2625e3ba)
-*OUTPUT - 1*: ![Image](https://github.com/user-attachments/assets/4a27c7eb-18e6-445f-8ac6-954fa49bea3b)
+- Data preprocessing
+- Feature selection
+- Machine-learning model development
+- Model evaluation
+- Predictive analysis
+- Insight generation
+
+## Technology
+
+- Python
+- Machine Learning
+- Data Analytics
+
+## Project context
+
+Developed as part of the Codtech IT Solutions Data Analytics internship.
+
+## Author
+
+Harsha Vinay Garagaparthi
